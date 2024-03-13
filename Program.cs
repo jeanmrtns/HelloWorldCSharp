@@ -11,27 +11,6 @@ class Program
 {
     static void Main()
     {
-        /*
-         WelcomeMessage.Execute();
-        Console.WriteLine();
-
-        ConcatNameUseCase.Execute();
-        Console.WriteLine();
-
-        MathOperationsUseCase.Execute();
-        Console.WriteLine();
-
-        CountTotalCharsUseCase.Execute();
-        Console.WriteLine();
-
-        CarLicensePlateUseCase.Execute();
-        Console.WriteLine();
-
-        GetCurrentDateFormattedUseCase.Execute();
-        Console.WriteLine();
-        
-         */
-
         Menu.Show();
 
         Console.ReadKey();
